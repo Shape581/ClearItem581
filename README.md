@@ -1,6 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Shape581/ClearItem581/total)
 
-# :package:・ClearItem581 V1.0.0
+# :package:・ClearItem581
 
 ### :mag:・Information
 
